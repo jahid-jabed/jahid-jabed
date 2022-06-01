@@ -1,5 +1,5 @@
-<h1 align="center">Hi, this is  <a href="https://jahid-jabed.github.io">Md. Jahidul Islam</a></h1>
-<h3 align="center">Lecturer, BGMEA University of Fashion and Technology</h3>
+<h1 align="center">Hi, this is  <a href="https://jahid-jabed.github.io/">Md. Jahidul Islam</a></h1>
+<h3 align="center">Lecturer, <a href="https://buft.edu.bd/">BGMEA University of Fashion and Technology</a></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jahid-jabed&label=Profile%20views&color=0e75b6&style=flat" alt="jahid-jabed" /> </p>
 
